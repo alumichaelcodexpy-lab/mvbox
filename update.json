@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "apk": "",
-  "message": "Initial release."
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "apk": "https://github.com/alumichaelcodexpy-lab/mvbox/releases/latest/download/app.apk",
+  "message": "Improved stability and bug fixes."
 }
