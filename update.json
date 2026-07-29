@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "3.0",
+  "versionCode": 4,
+  "versionName": "4.0",
   "apk": "https://github.com/alumichaelcodexpy-lab/mvbox/releases/latest/download/app.apk",
   "message": "• In-app update download progress bar\n• Custom layout size slider + pinch spacing for face/D-pad\n• HOME sends Start (pause) before quick settings\n• Action pad signal flare (A/B/X/Y water-wave rings) + frequency"
 }
